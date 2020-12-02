@@ -1,2 +1,0 @@
-In this method, the predictions from multinomial logistic regression, decision tree classifier, and CNN has been used with a neural network to get the final prediction. 
-The method has been examined on the B/W as well as the colour images.
