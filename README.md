@@ -1,6 +1,6 @@
 # Meat Cut Identification to Automate Product Labelling
 
-### By [Satya Prakash], [Andrew McCarren], [Palash Dange].
+### By [Satya Prakash], [Andrew McCarren].
 
 Table of Content
 
