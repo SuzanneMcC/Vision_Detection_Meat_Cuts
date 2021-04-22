@@ -1,6 +1,5 @@
 # Using Artificial Intelligence to Automate Product Identification on Beef Boning Lines
 
-### Introduction
 This repository contains the models implemented in the paper "Using Artificial Intelligence to Automate Product Identification on Beef Boning Lines". The experimentation have been performed on the dataset collected by DATAS (Deductive Analytics for Tomorrows Agri Sector) and sponsored by Science Foundation Ireland.
 
 ### Dataset
