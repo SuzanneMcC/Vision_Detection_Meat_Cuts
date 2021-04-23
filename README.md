@@ -7,7 +7,7 @@ The data can be found on Zenodo in the following link: https://zenodo.org/record
 If you use the dataset, please cite us.
 
 ## Experiments
-The files 
+
 
 ### Convolutional neural network (CNN)
 #### With BW Images
